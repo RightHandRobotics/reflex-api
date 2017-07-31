@@ -3,7 +3,7 @@ reflex-api
 
 Firmware, and Software for the Reflex Hand controller. The software is organized into the following directories.
 
-1. firmware -- Contains the firmware the hands (Reflex SF and Reflex Takktile)
+1. firmware -- Contains the firmware for the hands (Reflex Takktile)
 1. reflex-takktile-api -- Contains networking and driver code to control the Reflex Takktile hand
 
 This code does not require the use of ROS.
